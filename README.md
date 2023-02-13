@@ -29,5 +29,5 @@ Human pose estimation using deep learning method to predict trajectory-based int
 
 ### Navigation
 <p align="center">
-<img src="./Results/nav_output.png"/>
+<img src="./Results/nav_output.png" width= 500/>
 </p>
