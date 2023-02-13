@@ -33,6 +33,6 @@ Human pose estimation using deep learning method to predict trajectory-based int
 </p>
 
 ## Refrences
-> [1] Lightsfm a lightweight implementation of the social
-> force. https://github.com/robotics-upo/gazebo_sfm_plugin.
+> [1] A plugin for simulation of human pedestrians in ROS Gazebo.
+> https://github.com/robotics-upo/gazebo_sfm_plugin.
 > Accessed: 2022-12-01
