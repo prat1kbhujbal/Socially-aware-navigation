@@ -14,7 +14,7 @@ Human pose estimation using deep learning method to predict trajectory-based int
 </p>
 
 ## Results
-### Preprocessed image, with filtered annotations
+### Preprocessed image with filtered annotations
 <p align="middle">
   <img src="Results/filtered.png"/>
 </p>
@@ -22,4 +22,9 @@ Human pose estimation using deep learning method to predict trajectory-based int
 ### Model output in simulation
 <p align="center">
 <img src="./Results/sim_output.gif"/>
+</p>
+
+### Navigation
+<p align="center">
+<img src="./Results/nav_output.png"/>
 </p>
