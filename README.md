@@ -4,7 +4,7 @@
 Human pose estimation using deep learning method to predict trajectory-based intent from historical human poses using Kalman filter and utilize these predictions for socially aware navigation.
 
 ## Dataset
-
+[**MPII Human Pose Dataset**](http://human-pose.mpi-inf.mpg.de/)
 
 ## Pipeline
 <p align="middle">
